@@ -3,3 +3,4 @@
 - second commit
 - another line
 - update
+- I am studying COMP1021
